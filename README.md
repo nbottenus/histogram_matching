@@ -5,7 +5,8 @@ This code accompanies the publication:
 
 > Bottenus, N.; Byram, B.; Hyun, D.; "Histogram matching for visual ultrasound image comparison". *IEEE Transactions on Ultrasonics, Ferroelectrics, and Frequency Control*, (accepted)
 
-You can reference a static version of this code by its DOI number: (TBD)
+You can reference a static version of this code by its DOI number:
+[![DOI](https://zenodo.org/badge/306767465.svg)](https://zenodo.org/badge/latestdoi/306767465)
 
 If you use the code for research, please cite the above papers as appropriate.
 
